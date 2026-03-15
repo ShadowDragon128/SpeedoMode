@@ -11,7 +11,7 @@ namespace SpeedoMode
     {
         private const string pluginGuid = "ShadowAPI.LethalCompany.SpeedoMode";
         private const string pluginName = "SpeedoMode";
-        private const string pluginVersion = "0.1.0";
+        private const string pluginVersion = "1.0.0";
 
         public static ManualLogSource Logger_;
 
