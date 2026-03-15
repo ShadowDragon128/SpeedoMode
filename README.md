@@ -1,3 +1,3 @@
 # SpeedoMode
 
-There useto be a mod called "DinkysSpeedMod" by Dinkys but apperently just disappeared one day sooo IDK.
+There used to be a mod called "DinkysSpeedMod" by Dinky but apperently it just kind of disappeared one day sooo IDK.
